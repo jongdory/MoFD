@@ -37,7 +37,6 @@ python sampling.py -b configs/brain.yaml -t True --gpus 0,
 # Citation
 
 ```tex
-@article{
 @misc{kim2026mixt,
       title={Mixture of Multi-Sequence Feature Difference for Contrast-Enhanced MRI Synthesis}, 
       author={Jonghun Kim and Junmo Kwon and Hyunjin Park},
@@ -46,7 +45,6 @@ python sampling.py -b configs/brain.yaml -t True --gpus 0,
       archivePrefix={arXiv},
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2610.21703}, 
-}
 }
 ```
 
