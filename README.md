@@ -4,7 +4,7 @@ Mixture of Multi-Sequence Feature Difference for Contrast-Enhanced MRI Synthesis
 
 [Jonghun Kim],  [Hyunjin Park]
 
- [![arXiv](https://img.shields.io/badge/12345-6789-0F75BC.svg?style=plastic)]() [![arXiv](https://img.shields.io/badge/arXiv-1234.5678-b31b1b.svg?style=plastic)]()<br>
+ [![arXiv](https://img.shields.io/badge/12345-6789-0F75BC.svg?style=plastic)]() [![arXiv](https://img.shields.io/badge/arXiv-2610.21703-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2610.21703)<br>
 
 
 
